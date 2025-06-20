@@ -2,7 +2,7 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 )
 
 // ProgressState 进度的状态

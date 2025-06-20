@@ -1,8 +1,8 @@
 package annotateparser
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 	"testing"
 )
 

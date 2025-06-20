@@ -2,10 +2,10 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/lspcommon"
-	"luahelper-lsp/langserver/pathpre"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/lspcommon"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // GetColorParams 全局颜色配置

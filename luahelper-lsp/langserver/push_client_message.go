@@ -3,9 +3,9 @@ package langserver
 import (
 	"context"
 
-	lsp "luahelper-lsp/langserver/protocol"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 )
 
 // // PushShowMessage 给客户端推送提示消息

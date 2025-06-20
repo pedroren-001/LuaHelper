@@ -2,9 +2,9 @@ package analysis
 
 import (
 	"fmt"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/compiler/ast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // 是否给常量赋值 当有a.b.c时，只判断a是否常量 若a是import值，则只判断b是否常量

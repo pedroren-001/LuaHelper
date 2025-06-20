@@ -1,10 +1,10 @@
 package analysis
 
 import (
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/projects"
-	"luahelper-lsp/langserver/check/results"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/projects"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/results"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 	"sync"
 )
 

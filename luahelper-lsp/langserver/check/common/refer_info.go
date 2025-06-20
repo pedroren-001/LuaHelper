@@ -1,7 +1,7 @@
 package common
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // ReferType  引用文件的类型

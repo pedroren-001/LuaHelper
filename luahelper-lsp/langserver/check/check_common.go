@@ -1,9 +1,9 @@
 package check
 
 import (
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/compiler/lexer"
-	"luahelper-lsp/langserver/check/results"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/results"
 )
 
 // CommonFuncParam 公共的代码传参

@@ -2,11 +2,11 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/check"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/lspcommon"
-	protocol "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/lspcommon"
+	protocol "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // TextDocumentReferences 文件中查找符合的所有的引用

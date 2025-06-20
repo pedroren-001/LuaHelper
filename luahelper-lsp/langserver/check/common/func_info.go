@@ -2,8 +2,8 @@ package common
 
 import (
 	//"bytes"
-	"luahelper-lsp/langserver/check/compiler/ast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // FuncRelateVar 如果func是冒号的语法，例如

@@ -1,12 +1,12 @@
 package check
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/compiler/ast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
-	"luahelper-lsp/langserver/check/results"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/results"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 	"strings"
 )
 

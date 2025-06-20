@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	"luahelper-lsp/langserver/check"
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/codingconv"
-	"luahelper-lsp/langserver/log"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/codingconv"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // TextDocumentSignatureHelp 补全函数的参数

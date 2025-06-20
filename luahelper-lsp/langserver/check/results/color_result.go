@@ -1,8 +1,8 @@
 package results
 
 import (
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // ColorFileResult 第5阶段，分析单个文件，获取全局变量着色的功能

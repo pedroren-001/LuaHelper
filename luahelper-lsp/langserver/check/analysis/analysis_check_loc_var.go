@@ -2,7 +2,7 @@ package analysis
 
 import (
 	"fmt"
-	"luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
 )
 
 func (a *Analysis) checkLocVarCall() {

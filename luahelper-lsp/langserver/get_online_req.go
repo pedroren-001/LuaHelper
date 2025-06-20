@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 )
 
 // 客户端获取当前查找在线人数，查找会去中心服上查询所有在线人数

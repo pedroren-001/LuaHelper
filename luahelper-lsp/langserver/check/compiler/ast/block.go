@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // chunk ::= block

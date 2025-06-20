@@ -1,10 +1,10 @@
 package common
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/check/annotation/annotateparser"
-	"luahelper-lsp/langserver/check/compiler/lexer"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateparser"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 	"sort"
 )
 

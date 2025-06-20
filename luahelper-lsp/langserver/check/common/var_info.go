@@ -1,9 +1,9 @@
 package common
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/check/compiler/ast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // LuaType 变量定义的类型

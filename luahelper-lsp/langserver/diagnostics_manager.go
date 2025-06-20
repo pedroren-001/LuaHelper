@@ -3,11 +3,11 @@ package langserver
 import (
 	"context"
 	"fmt"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/lspcommon"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/lspcommon"
 
-	lsp "luahelper-lsp/langserver/protocol"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // pushFileErrList 给指定的文件推送指定的错误列表

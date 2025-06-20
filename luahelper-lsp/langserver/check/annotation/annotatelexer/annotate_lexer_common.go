@@ -1,7 +1,7 @@
 package annotatelexer
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // AnnotateErrType 错误的类型

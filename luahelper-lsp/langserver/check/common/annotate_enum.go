@@ -1,7 +1,7 @@
 package common
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
 )
 
 type AnnotateEnumStack struct {

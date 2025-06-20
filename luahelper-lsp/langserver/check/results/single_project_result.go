@@ -1,6 +1,6 @@
 package results
 
-import "luahelper-lsp/langserver/check/common"
+import "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
 
 // SingleProjectResult 第二阶段分析的工程结构
 type SingleProjectResult struct {

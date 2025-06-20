@@ -2,9 +2,9 @@ package common
 
 import (
 	"io/ioutil"
-	"luahelper-lsp/langserver/filefolder"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/pathpre"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/filefolder"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
 	"os"
 	"path/filepath"
 	"runtime"

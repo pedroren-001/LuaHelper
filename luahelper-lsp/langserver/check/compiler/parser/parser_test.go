@@ -2,7 +2,7 @@ package parser
 
 import (
 	"io/ioutil"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 	"path/filepath"
 	"runtime"
 	"testing"

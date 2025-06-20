@@ -1,8 +1,8 @@
 package results
 
 import (
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 )
 
 // AnalysisThird 第三阶段分析的所有的单个lua文件，散落的包装的结构

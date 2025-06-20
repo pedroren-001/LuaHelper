@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"luahelper-lsp/langserver/check/compiler/ast"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // explist ::= exp {‘,’ exp}

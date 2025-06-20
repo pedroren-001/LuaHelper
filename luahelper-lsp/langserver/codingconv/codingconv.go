@@ -1,7 +1,7 @@
 package codingconv
 
 import (
-	"luahelper-lsp/langserver/strbytesconv"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/strbytesconv"
 
 	"golang.org/x/text/encoding/simplifiedchinese"
 )

@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"luahelper-lsp/langserver/log"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // FileCache 单个文件的cache管理

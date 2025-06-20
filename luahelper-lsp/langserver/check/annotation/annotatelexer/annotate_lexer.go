@@ -2,7 +2,7 @@ package annotatelexer
 
 import (
 	"fmt"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 	"strings"
 )
 

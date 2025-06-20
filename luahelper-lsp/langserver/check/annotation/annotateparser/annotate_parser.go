@@ -1,10 +1,10 @@
 package annotateparser
 
 import (
-	"luahelper-lsp/langserver/check/annotation/annotateast"
-	"luahelper-lsp/langserver/check/annotation/annotatelexer"
-	"luahelper-lsp/langserver/check/compiler/lexer"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotateast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/annotation/annotatelexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 )
 
 // ParseCommentFragment 解析代码注释片段

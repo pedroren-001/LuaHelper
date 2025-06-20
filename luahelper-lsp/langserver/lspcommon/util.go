@@ -2,11 +2,11 @@ package lspcommon
 
 import (
 	"fmt"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 
-	"luahelper-lsp/langserver/pathpre"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // LocToRange luacheck里面的LocStruct转换为Range结构

@@ -1,7 +1,7 @@
 package annotateast
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // AnnotateState 空接口， 一行注释表示的一个语句

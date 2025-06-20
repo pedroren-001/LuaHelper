@@ -2,8 +2,8 @@ package lexer
 
 import (
 	"fmt"
-	"luahelper-lsp/langserver/codingconv"
-	"luahelper-lsp/langserver/strbytesconv"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/codingconv"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/strbytesconv"
 	"strings"
 	"unicode/utf8"
 )

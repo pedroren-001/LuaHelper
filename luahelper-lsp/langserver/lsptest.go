@@ -2,8 +2,8 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/check/common"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 
 	"github.com/yinfei8/jrpc2"
 	"github.com/yinfei8/jrpc2/handler"

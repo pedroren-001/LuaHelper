@@ -1,10 +1,10 @@
 package check
 
 import (
-	"luahelper-lsp/langserver/check/analysis"
-	"luahelper-lsp/langserver/check/results"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/pathpre"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/analysis"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/results"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
 	"reflect"
 	"runtime"
 	"time"

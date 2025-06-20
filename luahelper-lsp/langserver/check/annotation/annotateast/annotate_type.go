@@ -1,7 +1,7 @@
 package annotateast
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // 自带的type类型有下面的

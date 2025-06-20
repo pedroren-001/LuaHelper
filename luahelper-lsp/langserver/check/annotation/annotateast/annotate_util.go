@@ -1,7 +1,7 @@
 package annotateast
 
 import (
-	"luahelper-lsp/langserver/check/compiler/lexer"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/lexer"
 )
 
 // TraverseOneType 遍历解析这个type，获取最简单的type类型字符串，只允许简单

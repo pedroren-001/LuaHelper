@@ -1,7 +1,7 @@
 package common
 
 import (
-	"luahelper-lsp/langserver/check/compiler/ast"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/compiler/ast"
 )
 
 // 定义枚举类型关联的值

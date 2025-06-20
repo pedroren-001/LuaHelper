@@ -3,12 +3,12 @@ package langserver
 import (
 	"context"
 
-	"luahelper-lsp/langserver/check"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/pathpre"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
 
-	"luahelper-lsp/langserver/log"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // CancelRequest 取消一个请求

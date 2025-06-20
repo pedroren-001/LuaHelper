@@ -3,7 +3,7 @@ package langserver
 import (
 	"context"
 	"io/ioutil"
-	lsp "luahelper-lsp/langserver/protocol"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 	"path/filepath"
 	"runtime"
 	"testing"

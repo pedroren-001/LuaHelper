@@ -2,9 +2,9 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/lspcommon"
-	lsp "luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/lspcommon"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
 )
 
 // WorkspaceSymbolRequest 全工程符合查找提示，返回多个符合

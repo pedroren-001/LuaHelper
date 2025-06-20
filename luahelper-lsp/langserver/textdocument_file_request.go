@@ -2,12 +2,12 @@ package langserver
 
 import (
 	"context"
-	"luahelper-lsp/langserver/check"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/log"
-	"luahelper-lsp/langserver/pathpre"
-	lsp "luahelper-lsp/langserver/protocol"
-	"luahelper-lsp/langserver/strbytesconv"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/pathpre"
+	lsp "github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/protocol"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/strbytesconv"
 	"time"
 )
 

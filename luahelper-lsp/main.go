@@ -9,9 +9,9 @@ import (
 	"os"
 	"sync"
 
-	"luahelper-lsp/langserver"
-	"luahelper-lsp/langserver/check/common"
-	"luahelper-lsp/langserver/log"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/check/common"
+	"github.com/pedroren-001/LuaHelper/luahelper-lsp/langserver/log"
 
 	"github.com/yinfei8/jrpc2/channel"
 )
