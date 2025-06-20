@@ -1,4 +1,4 @@
-module github.com/pedroren-001/Luahelper/luahelper-lsp
+module github.com/pedroren-001/LuaHelper/luahelper-lsp
 
 go 1.15
 
